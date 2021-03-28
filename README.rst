@@ -2,6 +2,9 @@
 xsmtplib
 ========
 
+THE PROJECT IS ARCHIVED. NO ISSUES / PULL REQUESTS CAN BE OPENED. FEEL FREE TO FORK.
+
+
 An extension of standard smtplib, which supports proxy tunneling.
 
 Package works on Python 2.7+ and Python 3.5+.
